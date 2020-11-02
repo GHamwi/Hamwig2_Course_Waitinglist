@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c00ff</color>
+    <color name="colorPrimaryDark">#3c00ff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorAccent">#858585</color>
+    <color name="empty">#999</color>
+    <color name="hint_enter_note">#89c3c3c3</color>
+    <color name="timestamp">#858585</color>
+    <color name="listtext">#232323</color>
+</resources>
